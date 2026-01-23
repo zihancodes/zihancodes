@@ -33,11 +33,15 @@
 
 ###
 
-<p align="left">↬ Hi,  Myself **Zihan Khan**, I'm a passionate developer who loves creating clean, aesthetic, and functional digital experiences.</p>
+<p align="left">↬ Hi,  Myself Zihan Khan, I'm a passionate developer who loves creating clean, aesthetic, and functional digital experiences.</p>
 
 ###
 
 <h5 align="center">"To live is the rarest thing in the world." <br><br>📍 Delhi, India</h5>
+
+###
+
+###
 
 ###
 

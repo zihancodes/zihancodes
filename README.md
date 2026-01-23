@@ -28,7 +28,7 @@
 </div>
 
 ###
----
+
 <h2 align="left">✵ About Me</h2>
 
 ###
@@ -68,7 +68,7 @@
 </div>
 
 ###
----
+
 
 <h2 align="left">🎯 Stats</h2>
 
@@ -80,7 +80,7 @@
 
 ###
 
----
+
 <p align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>

@@ -23,11 +23,11 @@
 </div>
 
 ###
-
+---
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=radical"  />
 </div>
-
+---
 ###
 
 <h2 align="left">✵ About Me</h2>
@@ -76,6 +76,7 @@
 </div>
 
 ###
+---
 ---
 <p align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
